@@ -1,7 +1,7 @@
 <?php
 /**
  * Translation: Paul (https://paul.bid) paulbid@protonmail.com
- *
+ * 
  */
 return array (
   '<strong>Confirm</strong> Action' => '<strong>Подтвержите действие</strong>',
@@ -85,4 +85,4 @@ return array (
   'Upload file' => 'Загрузить файл',
   'You are not allowed to run this action.' => 'Вы не можете запускать это действие.',
 );
-ertyyy
+test 123
